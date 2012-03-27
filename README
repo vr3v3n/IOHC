@@ -1,0 +1,29 @@
+IOHC (	INDUSTRY ORIENTED HANDS ON EXPERIENCE)
+#####################
+INDUSTRY ORIENTED HANDS ON EXPERIENCE (IOHC) is basically a Desktop application for sorting of student application for summer training.
+
+ Here you have to enter a excel file of no. of student with some addition information like: Name of Student IOHC programme.
+
+  This application automatically alot the programme to student and give a excel file which can be posted directly on Notice Board. 
+
+###################
+INSTALLATION 
+--------------------
+
+TODO: Complete this tutorial
+
+1. Make sure you have added python to your PATH
+
+2. Open CMD.
+
+3. Open the IOHC folder on CMD
+
+4. Run the Script:
+
+	c:\ python IOHC.py
+	
+5. After compiling it, you can see a student.db file which is a database file used for adding student name again and again with the backup of last updated list.
+
+
+
+
